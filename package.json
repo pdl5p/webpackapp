@@ -13,11 +13,12 @@
   },
   "dependencies": {
     "express": "^4.14.0",
-    "webpack": "^1.13.1"
+    "webpack": "^1.13.1",
+    "html-webpack-plugin": "^2.22.0"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "html-webpack-plugin": "^2.22.0"
+
   }
 }
