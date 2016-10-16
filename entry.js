@@ -1,1 +1,1 @@
-document.write("It does still work.");
+document.write("It should still work.");
